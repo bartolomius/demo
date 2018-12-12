@@ -1,6 +1,6 @@
 {
   "posts": [
-    { "id": 1, "title": "Post 99", "image": "http://s7g1.scene7.com/is/image/odeu05/5155731?$lg$", "price": "50"}
+    { "id": 1, "title": "Post 99", "image": "http://s7g1.scene7.com/is/image/odeu05/5155731?$lg$", "price": 50}
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
